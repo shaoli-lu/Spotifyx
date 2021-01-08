@@ -37,6 +37,7 @@
   .discover-main-section {
     flex-direction: column;
     justify-content: center;
+    align-content: center;
   }
 
   .discover-main-section .covers-image {

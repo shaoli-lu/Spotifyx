@@ -52,10 +52,11 @@
   border-color: #596da0;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 800px) {
   .join-main-section {
     flex-direction: column;
     justify-content: center;
+    align-items: center;
   }
 
   .join-form {
